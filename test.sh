@@ -4,4 +4,5 @@ then
 echo "file is available"
 else
 echo "fnba"
+echo "testing"
 fi
